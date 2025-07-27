@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+开发文档：请查看 [Outline](https://docs.timeday.work/collection/timeday-T7UypUXVPu/overview)
 
 ## Available Scripts
 
